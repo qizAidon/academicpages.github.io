@@ -1,7 +1,6 @@
 ---
 title: "Saliency Detection by Compactness Diffusion"
 collection: publications
-permalink: /publication/2017-09-06-saliency-detection-by-compactness-diffusion
 excerpt: 'This paper is about unsupervised salient object detection.'
 date: 2017-09-06
 venue: 'BMVC'
