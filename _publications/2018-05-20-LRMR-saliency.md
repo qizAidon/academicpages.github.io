@@ -5,8 +5,8 @@ permalink: /publication/2018-05-20-LRMR-saliency
 excerpt: 'This paper is about salient object detection by low-rank matrix decomposition.'
 date: 2018-05-20
 venue: 'arXiv'
-paperurl: 'http://qizAidon.github.io/files/07438846.pdf'
+paperurl: 'http://qizAidon.github.io/files/lrmr_sal.pdf'
 ---
 This paper is about salient object detection by low-rank matrix decomposition.
 
-[Download paper here](http://qizAidon.github.io/files/07438846.pdf)
+[Download paper here](http://qizAidon.github.io/files/lrmr_sal.pdf)
