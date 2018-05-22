@@ -1,6 +1,7 @@
 ---
 title: "Coarse-to-Fine Salient Object Detection with Low-Rank Matrix Recovery"
 collection: publications
+permalink: /publication/2018-05-20-LRMR-saliency
 excerpt: 'This paper is about salient object detection by low-rank matrix decomposition.'
 date: 2018-05-20
 venue: 'arXiv'
