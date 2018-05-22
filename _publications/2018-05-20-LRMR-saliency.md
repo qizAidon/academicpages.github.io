@@ -1,5 +1,5 @@
 ---
-title: "Coarse-to-Fine Salient Object Detectionwith Low-Rank Matrix Recovery"
+title: "Coarse-to-Fine Salient Object Detection with Low-Rank Matrix Recovery"
 collection: publications
 excerpt: 'This paper is about salient object detection by low-rank matrix decomposition.'
 date: 2018-05-20
